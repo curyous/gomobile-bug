@@ -1,0 +1,8 @@
+framework module "Adder" {
+	header "ref.h"
+    header "Adder.objc.h"
+    header "Universe.objc.h"
+    header "Adder.h"
+
+    export *
+}
